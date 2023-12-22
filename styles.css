@@ -1,0 +1,64 @@
+body {
+    background-color: whitesmoke;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.heading {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    color: black;
+    background-color: rgba(0,0,0,50%,);
+}
+.font {
+    font-size: 10px;
+}
+.input {
+    box-shadow: 0 0 4px rgba(0,0,0,80%);
+    text-align: center;
+    display: block;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-top:auto;
+    width: 50%;
+    border-style: solid;
+    border-radius: 10px;
+}
+.text-input {
+    position: relative;
+    top: 15px;
+    margin-left: 12%;
+}
+.stext-input {
+    display: block;
+    margin-left: 12%;
+}
+.yes no {
+    position: relative;
+    left: 20%;
+    bottom: 12px;
+}
+div {
+    background-color: rgba(0,0,0, .1);
+    box-shadow: 0 0 9px rgba(0,0,0, 100%);
+    background-filter: blur(5px);
+    border: 1px solid rgba(75, 0, 130, 0%);
+    border-radius: 20px;
+    margin: 3px;
+}
+.submit {
+    background-color: forestgreen;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 50%;
+    border: 2px solid darkgray;
+    border-radius: 20px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 80%);
+    text-align: center;
+}
+.myform {
+    color: black;
+}
